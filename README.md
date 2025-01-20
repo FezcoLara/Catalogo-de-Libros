@@ -20,4 +20,4 @@ Dependiendo de la selección elegida se podra acceder a diferentes opciones y re
 - Framework: Spring.io
   
 ## Autor
-**Proyecto desarrolladodo por Victor Lara**
+**Proyecto desarrollado por Victor Lara**
