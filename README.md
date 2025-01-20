@@ -18,6 +18,6 @@ Dependiendo de la selección elegida se podra acceder a diferentes opciones y re
 - Librería: Gson 2.10.1
 - API: https://gutendex.com/
 - Framework: Spring.io
-- 
+  
 ## Autor
 **Proyecto desarrolladodo por Victor Lara**
